@@ -1,2 +1,6 @@
 # html-css-learning
-learning HTML and CSS
+
+Day 1 - Login page
+Day 2 - credit card
+Day 3 - Hero page
+Day 4 - calculator
